@@ -84,5 +84,5 @@ Compositing Flags:
 
 # Contributors
 
-- Zhansong Li (u5844206)
-- Jiawei Wang (u5719594)
+- [Zhansong Li](https://github.com/hvariant) (u5844206)
+- [Jiawei Wang](https://github.com/wjw1993) (u5719594)
